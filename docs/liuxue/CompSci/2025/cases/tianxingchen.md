@@ -1,5 +1,4 @@
 # 陈天行 - 香港大学MMLab直博@CS<br>2025届, 计软, 计算机科学技术(卓越班)
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io%2Fbaoyan%2F2025%2Fcases%2Ftianxingchen%2F&count_bg=%23B571F1&title_bg=%231A40F1&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) 主页: <a href="https://tianxingchen.github.io">https://tianxingchen.github.io</a><br>
 
 ## 背景
 **GPA:**<br>
@@ -12,14 +11,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- 中国高校计算机大赛 —— 团体程序设计天梯赛全国金奖团队
 
 **科研:**<br>
-产出论文9篇<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;- CVPR一作+共一+n作<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ECCV Workshop (Best Paper) 共一<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- ACL共一 + 二作<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICARM三作<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- CVPR一作+共一+四作在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- ICLR共一 + 三作在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- AAAI共一在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- NeurIPS三作 + 六作在投<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- RSS n作<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Github高星项目<br>
 
 **实习:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 上海人工智能实验室 (浦江国家实验室), OpenGVLab, 研究实习生<br>
@@ -48,7 +46,7 @@
 |  申请项目   | 结果 |
 |  ----  | ----  |
 | 港大PhD | ✅ |
-| 北大本部RA 1 | ❌ |
+| 北大本部RA 1  | ❌ |
 | 北大本部RA 2 | ✅ (offer, 未去) |
 | 清华叉院PhD | ❌ (邮件联系无回复) |
 | 北大本部PhD | ⭕️ (仅意向，因有offer，后续未跟进) |
@@ -92,7 +90,7 @@
 4月投递了清华叉院，国内最强项目。叉院比较需要提前connect，比如提前一年RA，加上背景超强。当时并没有提前联系，加上未有好的科研成果，遂挂。
 
 ### 港大
-后续不断完善科研工作，并与4月与港大老师细致交谈，迷迷糊糊拿下了口头offer，还需要过学院、学校面试，不过基本是走形式，申请季就结束了 (结束的有点莫名其妙)。主要成功的原因我认为是面谈的过程中比较积极，沟通顺畅，所以留下了好印象。
+后续不断完善科研工作，并与4月与港大老师细致交谈，迷迷糊糊拿下了口头offer，还需要过学院、学校面试，不过基本是走形式，申请季就结束了 (结束的有点莫名其妙)。主要成功的原因我认为是面谈的过程中比较积极，沟通顺畅，所以留下了好印象。2025年确定全奖offer。
 
 ## 总结
 * 需要敢于联系老师，不要担心自己够不上bar，积极才能争取到机会。

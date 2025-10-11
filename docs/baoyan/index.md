@@ -1,6 +1,8 @@
 # 保研板块
 
 > 使用电脑端食用更佳
+## 2026届
+- [物光 许若伦 - 北理 青椒组PhD@ICE](./Physics/2026/cases/ruolunxu.md)
 
 ## 2025届
 - [计软 朱宇飞 - 上科大@CS](./CompSci/2025/cases/yufeizhu.md)
