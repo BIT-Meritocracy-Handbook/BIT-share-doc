@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 深圳大学飞跃手册</a>
+# BIT飞跃手册</a>
 
 <!-- <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
@@ -86,19 +86,21 @@ hr.narrow {margin: 0 10px}
   tr:hover {background-color: #ddd;}
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学往年学长学姐<strong>留学、保研、考研、就业</strong>4个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
+欢迎！[BIT飞跃手册](https://BIT-share.github.io/) 是一份计划汇聚BIT往年学长学姐<strong>对专业方向的理解与留学、保研、考研、就业4个大方向</strong>的案例向经验分享网站。由 [BIT飞跃手册编写委员会](./main/committee.md) 提供平台支持。
 
 ## 目录
 
 <div class="centered-table">
 <table>
   <tr>
-    <td>🛫 留学</td>
-    <td>📖 保研</td>
-    <td>✍️ 考研</td>
-    <td>💼 就业</td>
+    <td>专业介绍</td>
+    <td>留学</td>
+    <td>保研</td>
+    <td>考研</td>
+    <td>就业</td>
   </tr>
   <tr>
+    <td><a href="./major/">点击此处跳转</a></td>
     <td><a href="./liuxue/">点击此处跳转</a></td>
     <td><a href="./baoyan/">点击此处跳转</a></td>
     <td><a href="./kaoyan/">点击此处跳转</a></td>
@@ -113,11 +115,11 @@ hr.narrow {margin: 0 10px}
 点击一下选择对应板块的模版并填写（ `.txt` 格式发送即可），请点击下载:<br>
 【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】<br>【[考研分享模版(TODO)]()】<br>【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_jiuye.txt)】
 
-最后发送到邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a>，或添加微信发送: **TianxingChen_2002**
+最后发送到邮箱: <a href="mailto:project-lss@outlook.com">project-lss@outlook.com</a><br>
 
 您只需要填写内容即可，手册的维护人员会负责进行排版与发布。
 
-如果您不习惯于使用 Github 或者是不喜欢 `.txt` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.md` / word `.docx` / `.pdf`）。
+如果您不习惯于使用 Github 或者是不喜欢 `.txt` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.md` / `.tex` / word `.docx` / `.pdf`）。
 
 <!-- ### 页面评论区
 

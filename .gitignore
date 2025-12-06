@@ -1,0 +1,20 @@
+# Python cache & bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.python-version
+
+# MkDocs build output
+#site/
+
+# VSCode workspace
+*.code-workspace
+
+# System files
+.DS_Store
+
+# Logs
+*.log
