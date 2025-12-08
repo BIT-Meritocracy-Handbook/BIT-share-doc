@@ -1,7 +1,7 @@
 site_name: BIT飞跃手册
-repo_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc/docs
+repo_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc
 edit_uri: edit/main/docs/
-site_url: https://BIT-share.github.io
+site_url: https://bit-meritocracy-handbook.github.io
 site_author: Project-LSS
 copyright: 'Copyright &copy; 2025 Project-LSS'
 
@@ -10,6 +10,8 @@ nav:
     - index.md
     - 编写委员会: main/committee.md
     - 友链: main/friendlink.md
+  - 专业介绍:
+    - major/index.md
   - 留学:
     - liuxue/index.md
   - 保研:
