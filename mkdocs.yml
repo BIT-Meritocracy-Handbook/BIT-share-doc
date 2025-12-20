@@ -10,6 +10,8 @@ nav:
     - index.md
     - 编写委员会: main/committee.md
     - 友链: main/friendlink.md
+  - 专业介绍:
+    - major/index.md
   - 留学:
     - liuxue/index.md
   - 保研:
