@@ -86,7 +86,7 @@ hr.narrow {margin: 0 10px}
   tr:hover {background-color: #ddd;}
 </style>
 
-欢迎！[BIT飞跃手册](https://BIT-share.github.io/) 是一份计划汇聚BIT往年学长学姐<strong>对专业方向的理解与留学、保研、考研、就业4个大方向</strong>的案例向经验分享网站。由 [BIT飞跃手册编写委员会](./main/committee.md) 提供平台支持。
+欢迎！[BIT飞跃手册](https://BIT-Meritocracy-Handbook.github.io) 是一份计划汇聚BIT往年学长学姐<strong>对专业方向的理解与留学、保研、考研、就业4个大方向</strong>的案例向经验分享网站。由 [BIT飞跃手册编写委员会](./main/committee.md) 提供平台支持。
 
 ## 目录
 
@@ -117,16 +117,15 @@ hr.narrow {margin: 0 10px}
 
 最后发送到邮箱: <a href="mailto:project-lss@outlook.com">project-lss@outlook.com</a><br>
 
-您只需要填写内容即可，手册的维护人员会负责进行排版与发布。
+您只需要填写内容即可，手册的维护人员会负责进行排版与发布（求大家发我们点东西）。
 
 如果您不习惯于使用 Github 或者是不喜欢 `.txt` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.md` / `.tex` / word `.docx` / `.pdf`）。
 
-<!-- ### 页面评论区
+## 页面评论区
 
-我们在本页面和 [QA](main/qa/) 页面底部放置了评论区，可以在其中提出简短的更新或勘误。 -->
+我们给这网页github仓库开启了issues和discussions，可以在其中提出更新或勘误。
 
 !!! note "站内导航"
     -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
     -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单，前往不同的章节。可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。
   
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-feiyue.github.io&count_bg=%23C369D9&title_bg=%23B4315F&icon=googlepodcasts.svg&icon_color=%23D9ED3E&title=Page+Viewers&edge_flat=false"/></a> -->

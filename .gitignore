@@ -8,7 +8,7 @@ venv/
 .python-version
 
 # MkDocs build output
-#site/
+site/
 
 # VSCode workspace
 *.code-workspace

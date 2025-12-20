@@ -1,7 +1,7 @@
 site_name: BIT飞跃手册
-repo_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc/docs
+repo_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc
 edit_uri: edit/main/docs/
-site_url: https://BIT-share.github.io
+site_url: https://BIT-Meritocracy-Handbook.github.io
 site_author: Project-LSS
 copyright: 'Copyright &copy; 2025 Project-LSS'
 
@@ -45,6 +45,7 @@ theme:
     - navigation.top
     - toc.follow
     - announce.dismiss
+    - content.comments
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
@@ -91,6 +92,21 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
+extra:
+  comments:
+    provider: giscus
+    giscus:
+      repo: BIT-Meritocracy-Handbook/BIT-Meritocracy-Handbook.github.io
+      repo_id: R_kgDOQGfJbA
+      category: Website Comments
+      category_id: DIC_kwDOQGfJbM4C0ClJ
+      mapping: pathname
+      reactions_enabled: 1
+      emit_metadata: 0
+      input_position: bottom
+      theme: preferred_color_scheme
+      lang: zh-CN
+
 plugins:
   - search:
       lang:
@@ -104,4 +120,4 @@ plugins:
       strict_mode: False
       order: 2
   - git-authors:
-      show_contribution: true
+      show_contribution: false
