@@ -23,6 +23,7 @@ nav:
     - jiuye/index.md
 theme:
   name: material
+  custom_dir: docs/overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -47,7 +48,6 @@ theme:
     - navigation.top
     - toc.follow
     - announce.dismiss
-    - content.comments
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
