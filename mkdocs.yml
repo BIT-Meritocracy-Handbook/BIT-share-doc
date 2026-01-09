@@ -1,6 +1,6 @@
 site_name: BIT飞跃手册
 repo_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc
-edit_uri: edit/main/docs/
+edit_url: https://github.com/BIT-Meritocracy-Handbook/BIT-share-doc/master
 site_url: https://BIT-Meritocracy-Handbook.github.io
 site_author: Project-LSS
 copyright: 'Copyright &copy; 2025 Project-LSS'
@@ -8,15 +8,20 @@ copyright: 'Copyright &copy; 2025 Project-LSS'
 nav:
   - 首页:
     - index.md
+    - 关于项目: main/about.md
     - 编写委员会: main/committee.md
     - 友链: main/friendlink.md
   - 专业介绍:
     - major/index.md
+    - 集成电路与电子学院: major/ice.md
   - 留学:
     - liuxue/index.md
+    - 留学基础知识: liuxue/basic.md
   - 保研:
     - baoyan/index.md
-    - 本科专业 姓名 - 去向@方向: baoyan/CompSci/2026/cases/example.md
+    - 保研基础知识: baoyan/basic.md
+    - 集成电路与电子学院: baoyan/ICE/index.md
+#    - 本科专业 姓名 - 去向@方向: baoyan/CompSci/2026/cases/example.md
   - 考研:
     - kaoyan/index.md
   - 就业:
